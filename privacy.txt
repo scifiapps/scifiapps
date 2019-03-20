@@ -1,0 +1,20 @@
+
+ PRIVACY POLICY FOR OUR APPS
+
+ 1. CODE IN OUR APPS
+
+    We have taken the decision to NOT COLLECT OR STORE ANY INFORMATION about our users on our servers. Any information that you give to our apps is not sent or stored on our servers, everything is used to offer you the services in the app itself and only on your device. We do not identify our users directly as we do not need personal information.
+
+ 2. CODE IN SDKs WE USE
+ 
+    Even if we make no effort to identify or store information about our users, we use SDKs for user statistics, ads and other purposes. We have no control over the code in these SDKs. Even so we do not receive personally identifiable information about our users, only agregate information. You should consult each SDK to see their privacy policies.
+    
+    2.1 Google
+    
+	We may receive statistical data about our app like: number of active users, number of total users, number of errors etc
+	Privacy policy:	https://policies.google.com/privacy
+
+    2.2 AppBrain
+    
+	We use this SDK to display ads and we may receive user statistics data about our app like: number of active users, number of total users etc
+	Privacy policy: https://developers.appbrain.com/info/help/privacy/sdk-privacy.html
